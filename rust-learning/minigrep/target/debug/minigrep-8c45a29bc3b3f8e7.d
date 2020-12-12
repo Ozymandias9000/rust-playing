@@ -1,0 +1,1 @@
+/Users/Nick/Documents/rust/rust-learning/minigrep/target/debug/minigrep-8c45a29bc3b3f8e7: /Users/Nick/Documents/rust/rust-learning/minigrep/src/lib.rs /Users/Nick/Documents/rust/rust-learning/minigrep/src/main.rs
